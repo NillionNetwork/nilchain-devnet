@@ -12,6 +12,9 @@ The nilchain instance can be reached at the following ports:
 | gRPC     | 26649 |
 | REST     | 26650 |
 
+## Chain ID
+`nillion-chain-devnet`
+
 ## Stash account
 
 There's a single "stash" account that contains lots of funds using private key 
