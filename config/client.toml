@@ -1,0 +1,4 @@
+chain-id = "nillion-chain-devnet"
+keyring-backend = "test"
+node = "tcp://localhost:26657"
+broadcast-mode = "sync"

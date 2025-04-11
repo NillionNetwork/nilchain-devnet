@@ -1,0 +1,13 @@
+minimum-gas-prices = "0stake"
+query-gas-limit = "0"
+
+[api]
+address = "tcp://0.0.0.0:26650"
+
+[grpc]
+address = "0.0.0.0:26649"
+enable = true
+
+[grpc-web]
+enable = true
+
