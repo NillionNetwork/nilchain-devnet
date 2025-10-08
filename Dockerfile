@@ -1,4 +1,4 @@
-FROM ghcr.io/nillionnetwork/nilchaind:feat-add-arm64-docker-builds
+FROM ghcr.io/nillionnetwork/nilchaind:main
 
 WORKDIR /opt/nilchain
 
