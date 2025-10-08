@@ -1,4 +1,4 @@
-FROM ghcr.io/nillionnetwork/nilchaind:v0.2.5
+FROM ghcr.io/nillionnetwork/nilchaind:main
 
 WORKDIR /opt/nilchain
 
